@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+
+#navbar{
+    height: 60px;
+    background-color: #0f1111
+   
+   
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin-right: 200px;
+}
+#zone{
+    color: #f08804;
+    font-size: 25px;
+}
+button{
+    width: 70px;
+    background-color:#f08804;
+    color:white;
+    
+}
